@@ -1,3 +1,26 @@
+## mocap_msgs (iron) - 0.0.4-1
+
+The packages in the `mocap_msgs` repository were released into the `iron` distro by running `/usr/local/bin/bloom-release --rosdistro iron --track iron mocap_msgs --edit` on `Tue, 09 Jan 2024 06:16:04 -0000`
+
+The `mocap_msgs` package was released.
+
+Version of package(s) in repository `mocap_msgs`:
+
+- upstream repository: https://github.com/MOCAP4ROS2-Project/mocap_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.0.3-1`
+- new version: `0.0.4-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## mocap_msgs (humble) - 0.0.4-1
 
 The packages in the `mocap_msgs` repository were released into the `humble` distro by running `/usr/local/bin/bloom-release --rosdistro humble --track humble mocap_msgs --edit` on `Tue, 09 Jan 2024 06:12:46 -0000`
