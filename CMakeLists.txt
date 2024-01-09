@@ -11,6 +11,8 @@ set(msg_files
   "msg/Marker.msg"
   "msg/Markers.msg"
   "msg/ImusInfo.msg"
+  "msg/RigidBody.msg"
+  "msg/RigidBodies.msg"
 )
 
 rosidl_generate_interfaces(${PROJECT_NAME}
