@@ -1,3 +1,26 @@
+## foo (humble) - 0.0.3-2
+
+The packages in the `foo` repository were released into the `humble` distro by running `/usr/local/bin/bloom-release foo --rosdistro humble` on `Tue, 09 Jan 2024 05:55:00 -0000`
+
+The `mocap_msgs` package was released.
+
+Version of package(s) in repository `foo`:
+
+- upstream repository: https://github.com/MOCAP4ROS2-Project/mocap_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.0.3-1`
+- new version: `0.0.3-2`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## foo (iron) - 0.0.3-1
 
 The packages in the `foo` repository were released into the `iron` distro by running `/usr/local/bin/bloom-release foo --rosdistro iron` on `Tue, 09 Jan 2024 05:49:45 -0000`
